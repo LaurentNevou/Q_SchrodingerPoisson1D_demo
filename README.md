@@ -1,6 +1,9 @@
 # Q_SchrodingerPoisson1D_demo
 Schrodinger-Poisson solver in 1D demonstrator
 
+![image](https://user-images.githubusercontent.com/35040499/111983823-dab28b00-8b0a-11eb-8691-357a8fc78f3b.png)
+
+
 This code solves the Schrodinger-Poisson equation in semiconductor heterostructures.
 In order to be educatif, few approximations are made:
 
